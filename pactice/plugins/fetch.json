@@ -6,5 +6,13 @@
     },
     "is_top_level": true,
     "variables": {}
+  },
+  "cordova-plugin-first-plugin": {
+    "source": {
+      "type": "registry",
+      "id": "CustomPlugin"
+    },
+    "is_top_level": true,
+    "variables": {}
   }
 }

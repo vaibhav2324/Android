@@ -1,0 +1,53 @@
+{
+  "_from": "CustomPlugin",
+  "_id": "CustomPlugin@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha1-K/1INFufwhdkUiht+exS4VHbBI4=",
+  "_location": "/CustomPlugin",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "CustomPlugin",
+    "name": "CustomPlugin",
+    "escapedName": "CustomPlugin",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/CustomPlugin/-/CustomPlugin-0.0.1.tgz",
+  "_shasum": "2bfd48345b9fc2176452286df9ec52e151db048e",
+  "_spec": "CustomPlugin",
+  "_where": "E:\\mob\\Android\\pactice",
+  "author": {
+    "name": "Rahul Khunt"
+  },
+  "bugs": {
+    "url": "https://github.com/rkhunt007/samplePlugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-first-plugin",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "-",
+  "homepage": "https://github.com/rkhunt007/samplePlugin#readme",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "-",
+  "name": "CustomPlugin",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkhunt007/samplePlugin.git"
+  },
+  "version": "0.0.1"
+}

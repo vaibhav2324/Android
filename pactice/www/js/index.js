@@ -23,6 +23,14 @@ var app = {
         receivedElement.setAttribute('style', 'display:block;');
 
         console.log('Received Event: ' + id);
+
+        //consume custom plugin
+        function success(result) {
+            alert(result);
+        }
+        setTimeout(function () {
+            cordova.exec(success, null, "CustomPlugin", "coolMethod", [111, 222]);
+        }, 10000);
     }
 };
 
